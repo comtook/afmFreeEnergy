@@ -1,0 +1,16 @@
+Package: afmFreeEnergy
+Title: Calculate Adsorption Free Energy Using Gamma Estimator of Jarzynski Equality
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Zhifeng",
+           family = "Kuang",
+           role = c("aut", "cre"),
+           email = "zig.kuang@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Calculate peptide adsorption free energy with a small sample size of noisy data from single molecule pulling experiments, using the gamma estimator of the Jarzynski equality.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+URL: https://github.com/comtook/afmFreeEnergy
+BugReports: https://github.com/comtook/afmFreeEnergy/issues
